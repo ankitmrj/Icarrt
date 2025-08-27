@@ -22,11 +22,6 @@ to take business to the next level!
 - Analyzing Organic Prodcuts.
 - Purchasing behaviour on Departments and Aisles.
 
-<<<<<<< HEAD
-
-=======
-https://user-images.githubusercontent.com/59095993/172076099-2d2c4676-12ea-4510-8634-1928636f3452.mp4
->>>>>>> 85ca729 (Update README.md)
 
 ## Next Order Recommender/Predictor :bread: :fries: :doughnut:
 **A predictive analysis model** , that predicts the products ordered in users' future order based on each purchasing history. Primary Key is the user-product pair to predict whether will be in the future order or not.
@@ -92,24 +87,3 @@ https://user-images.githubusercontent.com/59095993/172076108-dc4b1109-accc-4c6e-
 - [ ] Continue developing the time-dependent features.
 - [ ] Apply oversampling and undersampling, and observe whether this will help the imbalanced class problem.
 - [ ] Deploy the Full Model.
-<<<<<<< HEAD
-=======
-
-## Contributors
-<table align="center">
-  <tr>
-    <td align="center">
-    <a href="https://github.com/tokakhaled" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Toka Khaled"/>
-    <br />
-    <sub><b>Toka Khaled</b></sub></a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/NouranHany" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/59095993?v=4" width="100px;" alt="Noran Hany"/>
-    <br />
-    <sub><b>Noran Hany</b></sub></a>
-    </td>
-  </tr>
- </table>
->>>>>>> 85ca729 (Update README.md)
